@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+python-docx
+transformers
+torch
+requests
