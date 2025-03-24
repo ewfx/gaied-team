@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============7457276475121762833=="
+MIME-Version: 1.0
+From: sender@example.com
+To: recipient@example.com
+Subject: Urgent: Loan Modification Request
+
+--===============7457276475121762833==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Team, I would like to request an interest rate change for my loan. Please find the attached document with the necessary details.
+--===============7457276475121762833==
+Content-Type: application/pdf
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Loan_Modification_Details.pdf"
+
+JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAy
+IDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVj
+b2RlIC9MZW5ndGggMTQ2Pj4Kc3RyZWFtCnicZc29CsIwFMXxvU9xBgcFSW9uraHdlFZExEHyAheb
+QsUkIhF9fL9wENfD+fFnbDJSpcEtW1rkKw3Nigi2R2tfU6GVrmCqUhkD22HcODlhJ97VWEfvsI0S
+sHf9ECQc3AT2+CvnRs34LRc+XkOqMWKiKRH9f4tK0afS3s/DRdIQAxpJz5bmvKCcicsvewDHKy6Y
+CmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PC9UeXBlIC9QYWdlcwovS2lkcyBbMyAwIFIgXQov
+Q291bnQgMQovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQo+PgplbmRvYmoKNSAwIG9iago8
+PC9UeXBlIC9Gb250Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9TdWJ0eXBlIC9UeXBlMQovRW5jb2Rp
+bmcgL1dpbkFuc2lFbmNvZGluZwo+PgplbmRvYmoKMiAwIG9iago8PAovUHJvY1NldCBbL1BERiAv
+VGV4dCAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSV0KL0ZvbnQgPDwKL0YxIDUgMCBSCj4+Ci9YT2Jq
+ZWN0IDw8Cj4+Cj4+CmVuZG9iago2IDAgb2JqCjw8Ci9Qcm9kdWNlciAoUHlGUERGIDEuNy4yIGh0
+dHA6Ly9weWZwZGYuZ29vZ2xlY29kZS5jb20vKQovQ3JlYXRpb25EYXRlIChEOjIwMjUwMzIyMDY0
+MTM3KQo+PgplbmRvYmoKNyAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMSAwIFIKL09w
+ZW5BY3Rpb24gWzMgMCBSIC9GaXRIIG51bGxdCi9QYWdlTGF5b3V0IC9PbmVDb2x1bW4KPj4KZW5k
+b2JqCnhyZWYKMCA4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDMwMyAwMDAwMCBuIAowMDAw
+MDAwNDg2IDAwMDAwIG4gCjAwMDAwMDAwMDkgMDAwMDAgbiAKMDAwMDAwMDA4NyAwMDAwMCBuIAow
+MDAwMDAwMzkwIDAwMDAwIG4gCjAwMDAwMDA1OTAgMDAwMDAgbiAKMDAwMDAwMDY5OSAwMDAwMCBu
+IAp0cmFpbGVyCjw8Ci9TaXplIDgKL1Jvb3QgNyAwIFIKL0luZm8gNiAwIFIKPj4Kc3RhcnR4cmVm
+CjgwMgolJUVPRgo=
+
+--===============7457276475121762833==--

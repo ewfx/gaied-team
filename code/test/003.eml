@@ -1,0 +1,39 @@
+Content-Type: multipart/mixed; boundary="===============1643324822234314991=="
+MIME-Version: 1.0
+From: sender@example.com
+To: recipient@example.com
+Subject: Fraudulent Transaction Alert
+
+--===============1643324822234314991==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello, I noticed an unauthorized transaction on my loan account ending in 4567. Please investigate.
+--===============1643324822234314991==
+Content-Type: application/pdf
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Fraud_Report.pdf"
+
+JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAy
+IDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVj
+b2RlIC9MZW5ndGggMTQ0Pj4Kc3RyZWFtCnicZc2/CsIwGATwvU9xg4OKpF/Sph/NpqiDg4t5gRor
+RDCVJsHX9x8O4o3H/TiFXUFCM+7FyqLcSkgliGDP2NhXVUkhW3CrBTPsCdOlc0MOCft8PfajwfyZ
+Wjc8g738moZFrd7mkOPNOz/kCDt2IXYu+SEYTPSCiP5l1Qr6vK271BtQVUoqFSn93T4AH1MtPgpl
+bmRzdHJlYW0KZW5kb2JqCjEgMCBvYmoKPDwvVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSIF0KL0Nv
+dW50IDEKL01lZGlhQm94IFswIDAgNTk1LjI4IDg0MS44OV0KPj4KZW5kb2JqCjUgMCBvYmoKPDwv
+VHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYQovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5n
+IC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1Byb2NTZXQgWy9QREYgL1Rl
+eHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUldCi9Gb250IDw8Ci9GMSA1IDAgUgo+PgovWE9iamVj
+dCA8PAo+Pgo+PgplbmRvYmoKNiAwIG9iago8PAovUHJvZHVjZXIgKFB5RlBERiAxLjcuMiBodHRw
+Oi8vcHlmcGRmLmdvb2dsZWNvZGUuY29tLykKL0NyZWF0aW9uRGF0ZSAoRDoyMDI1MDMyMjA2NDEz
+NykKPj4KZW5kb2JqCjcgMCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDEgMCBSCi9PcGVu
+QWN0aW9uIFszIDAgUiAvRml0SCBudWxsXQovUGFnZUxheW91dCAvT25lQ29sdW1uCj4+CmVuZG9i
+agp4cmVmCjAgOAowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAzMDEgMDAwMDAgbiAKMDAwMDAw
+MDQ4NCAwMDAwMCBuIAowMDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwODcgMDAwMDAgbiAKMDAw
+MDAwMDM4OCAwMDAwMCBuIAowMDAwMDAwNTg4IDAwMDAwIG4gCjAwMDAwMDA2OTcgMDAwMDAgbiAK
+dHJhaWxlcgo8PAovU2l6ZSA4Ci9Sb290IDcgMCBSCi9JbmZvIDYgMCBSCj4+CnN0YXJ0eHJlZgo4
+MDAKJSVFT0YK
+
+--===============1643324822234314991==--
